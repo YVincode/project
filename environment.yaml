@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - ipykernel
-  - scikit-learn=1.2.2
+  - scikit-learn
   - python
   - jupyterlab
 prefix: /Users/vincentyi/miniconda3/envs/dstoolbox
